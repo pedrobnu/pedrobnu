@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://app.daily.dev/pedrobnu"><img src="https://api.daily.dev/devcards/v2/1UIdo2bYHFDUisUlFixFn.png?type=default&r=4tb" width="356" alt="Pedro Abilio de Souza Junior's Dev Card"/></a>
+
 <!--
 **pedrobnu/pedrobnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
